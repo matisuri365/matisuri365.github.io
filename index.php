@@ -230,16 +230,16 @@
             height="300"
           />
           <p>
-            Made Okta lahir pada 12 Mei 1990 di Jakarta, Indonesia. Sejak kecil, 
+            Made Okta lahir pada 7 Oktober 2002 di Jakarta, Indonesia. Sejak kecil, 
             ia menunjukkan minat yang besar dalam bidang teknologi, 
             terutama pengembangan perangkat lunak.
           </p>
           <p>
-            Selama 5 tahun bekerja, ia berhasil memimpin proyek-proyek besar yang
+            Selama 5 tahun belajar, ia berhasil memimpin memimpin beberapa proyek yg
             melibatkan pengembangan aplikasi web dan mobile untuk berbagai klien. 
           </p>
           <p>
-            Selain bekerja, John juga aktif sebagai mentor di berbagai komunitas 
+            Selain bekerja, Okta juga aktif sebagai mentor di berbagai komunitas 
             teknologi, berbagi pengetahuan dengan generasi pengembang muda. 
           </p>
         </div>
